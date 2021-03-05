@@ -1,0 +1,108 @@
+.navbar{
+    background-image: linear-gradient(to right, #DA4453, #89216B);
+}
+#hero{
+    padding-top: 5%;
+    background-image: linear-gradient(to right, #DA4453, #89216B);
+}
+#hero img{
+    height: 350px;
+}
+#service{
+    margin-top: -5%;
+    margin-bottom: 50px;
+}
+div.garis{
+    width: 150px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -15px auto 0;
+}
+div.garis2 {
+    width: 230px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -15px auto 0;
+}
+div.garis3 {
+    width: 150px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -15px auto 0;
+    margin-bottom: 50px;
+}
+#service div.col-md-4 img{
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.font14{
+    font-size: 14px;
+}
+#service button{
+    margin-top: 20px;
+    background-image: linear-gradient(to right, #DA4453, #89216B);
+    width: 120px;
+    font-size: 12px;
+}
+
+#about{
+    background-color: #f1f2f6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#about h3 {
+    padding-top: 80px;
+}
+#about img{
+    margin-top: 05%;
+}
+#testimoni{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+div.card-testi{
+    font-size: 11px;
+    font-weight: lighter;
+}
+div.card-testi {
+    border-left: 4px solid #89216B;
+}
+div.card-testi img{
+    width: 50px;
+    height: 50px;
+}
+div.card-testi span{
+    font-size: 12px;
+}
+div.card-testi em {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#sosialmedia {
+    background-color: #f1f2f6;
+    padding-top: 50px;
+    position: relative;
+}
+
+#sosialmedia img{
+    width: 50px;
+    height: 50px;
+}
+
+#sosialmedia a{
+    margin-left: 10px;
+}
+
+#footer{
+    margin-top: -3%;
+    background-image: linear-gradient(to right, #DA4453, #89216B);
+}
+#footer p{
+    font-size: 11px;
+    font-weight: lighter;
+}
